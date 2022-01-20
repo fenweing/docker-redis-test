@@ -1,0 +1,9 @@
+GET www.tuanbaol.com:8080/redis/getValue/redis
+
+###
+POST www.tuanbaol.com:8080/redis/setValue/redis/v3
+
+###
+DELETE www.tuanbaol.com:8080/redis/deleteValue/redis
+
+###
